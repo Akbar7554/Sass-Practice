@@ -1,0 +1,16 @@
+$background-color: #d3acac;
+$header-color: #241919;
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: $background-color;
+}
+footer{
+    background: $header-color;
+}
